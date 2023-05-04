@@ -1,0 +1,82 @@
+body{
+  margin: 0%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header{
+  height: 800px;;
+  background-image: url(../images/header-bg.png);
+  margin-bottom: 150px;
+  
+  
+
+
+}
+.headerdiv{
+  width: 30%;
+  margin: 8%;
+  padding-left: 1%;
+  float: left;
+ 
+}
+.headerdiv img{
+  width: 100%;
+  
+}
+.headerdiv h1{
+  font-size: 45px;
+  color: #171402;
+}
+
+.headerdiv h2{
+  color:#da2c6f;
+  font-size: 35px;
+}
+.headerdiv p{
+  text-align: justify;
+  color: dimgray;
+}
+.hireme{
+  border: 1px solid;
+  color:white;
+  background-image: linear-gradient(45deg, #e67aa3, #dc3450 );
+  text-decoration: none;
+  padding: 10px 25px;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.biography{
+  height: 800px;;
+  background-image: url(../images/biography-bg.png);
+  margin-bottom: 150px;
+
+}
+#bioh2{
+  font-size: 40px;
+  color: #192c02;
+}
+
+.lastwork-area{
+  height: 800px;;
+  background-image: url(../images/latest-work-bg.png);
+  margin-bottom: 150px;
+  margin-top: 150px;
+}
+
+.lastwork-area h1{
+  font-size: 45px;
+  text-transform: capitalize;
+  color: #192c02;
+}
+
+.work{
+  width: 30%;
+  margin-left:3%;
+  float:left;
+  
+}
+
+.work img{
+  width: 100%;
+}
