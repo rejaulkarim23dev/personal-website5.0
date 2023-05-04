@@ -60,8 +60,8 @@ body{
 .lastwork-area{
   height: 800px;;
   background-image: url(../images/latest-work-bg.png);
-  margin-bottom: 150px;
-  margin-top: 150px;
+  margin-bottom: 100px;
+  margin-top: 100px;
 }
 
 .lastwork-area h1{
@@ -79,4 +79,49 @@ body{
 
 .work img{
   width: 100%;
+}
+
+.footer-sec{
+  height: 800px;;
+  background-image: url(../images/footer-bg.png);
+  margin-bottom: 100px;
+  margin-top: 100px;
+
+}
+
+.footer-sec h1{
+  font-size: 45px;
+  font-weight: 900;
+  text-align: center;
+  color: #192c02;
+}
+.footdiv{
+  text-align: center;
+  width: 400px;
+  padding: 20px;
+  margin-left: 38%;
+
+}
+
+.footdiv h4{
+  font-size: ;
+}
+
+.message{
+  text-align: center;
+  color: white;
+  border: 1px solid #cd4573;
+  background-image: linear-gradient(45deg, #cd6e7e, #e32948);
+  width: 45%;
+  margin-left: 28%;
+  height: 20%;
+  border-radius: 10px;
+
+
+}
+
+footer p{
+  font-size: 17px;
+  text-align: center;
+  color: #192c02;
 }
